@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.imageCard{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.employeeImg{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.card-group{
+    margin: 20px;
+    gap: 20px;
+}
+.companyEmployee{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.QuestionContent{
+   width: 60%;
+   margin-left: 20%;
+}
+.checked{
+    color: orange;
+}
+.Footer{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.socialapp{
+    margin-left: -120px;
+    
+}
+.google{
+   font-size: 30px;
+   font-weight: bold;
+    margin-left: 30%;
+    margin-top: 20px;
+    color: white;
+}
